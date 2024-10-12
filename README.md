@@ -15,7 +15,7 @@ We provide a binary in release tab. Or you can simply click [Download here](http
 Use pass `FortniteClarionixYT`
 
 ## Easy, Fast and Safe ESP for Fortnite 💻
-- Version: **1.1.13.1 | STABLE BETA | 10.07.2024** 
+- Version: **1.1.13.1 | STABLE BETA | 10.12.2024** 
 - Compatibility: **Windows 10/11** 
 	
 ## Features 🛠️
